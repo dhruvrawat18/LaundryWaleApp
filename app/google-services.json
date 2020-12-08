@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246418677026",
+    "firebase_url": "https://laundryproject-41d32-default-rtdb.firebaseio.com",
+    "project_id": "laundryproject-41d32",
+    "storage_bucket": "laundryproject-41d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246418677026:android:9e5f7cfe9c2b3ce8b3197b",
+        "android_client_info": {
+          "package_name": "team.orion.androidcustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246418677026-ekg2pfp8rvoc15ndfuns2vhu0launi0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_GUmBiKrn3ucWsW-bQrEUb_sGHng6PU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246418677026-ekg2pfp8rvoc15ndfuns2vhu0launi0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
