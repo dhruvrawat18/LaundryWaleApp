@@ -4,8 +4,13 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.3.0.aar/7c78a0341130c4a321087d253757e1d0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.3.0.aar/7c78a0341130c4a321087d253757e1d0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/geofire-android-2.3.0.aar/7c78a0341130c4a321087d253757e1d0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb26c73d73c93fd310e70e6c83d689d4/geofire-android-2.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb26c73d73c93fd310e70e6c83d689d4/geofire-android-2.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb26c73d73c93fd310e70e6c83d689d4/geofire-android-2.3.0/AndroidManifest.xml" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/2.3.0/aae1f25223fa3bf8a342fa85925d37fe2d216f27/geofire-android-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/geofire-android/2.3.0/9f7d57936ff1fbca5e18ef5099b58472ed203bbd/geofire-android-2.3.0-sources.jar!/" />
     </SOURCES>
